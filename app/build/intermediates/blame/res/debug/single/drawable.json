@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_source.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_source.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_advanced_2.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_advanced_2.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_direction_left.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_direction_left.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_power.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_power.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_channel_down.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_channel_down.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_volume_up.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_volume_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_silence.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_silence.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\handle.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\handle.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_direction_right.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_direction_right.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_3d.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_3d.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_direction_up.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_direction_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_back.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_back.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_channel_up.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_channel_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_menu.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_menu.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_home.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_home.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_recent.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_recent.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_direction_down.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_direction_down.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\standard_advanced.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\standard_advanced.xml"
+    },
+    {
+        "merged": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\advanced_volume_down.xml",
+        "source": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\drawable\\advanced_volume_down.xml"
+    }
+]

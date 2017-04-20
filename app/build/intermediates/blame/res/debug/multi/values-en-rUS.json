@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "D:\\workspace\\FloatingTouch1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 354,
+                        "endColumn": 37,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 50,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 50,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 37,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 33,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 41,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 730,
+                        "endColumn": 38,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 38,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 429,
+                        "endColumn": 34,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 34,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 577,
+                        "endColumn": 30,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 52,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 71,
+                        "endColumn": 52,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 37,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 280,
+                        "endColumn": 33,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 37,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 542,
+                        "endColumn": 33,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 50,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 50,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 33,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 699,
+                        "endColumn": 29,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endColumn": 39,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 609,
+                        "endColumn": 35,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 52,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 648,
+                        "endColumn": 49,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 41,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 315,
+                        "endColumn": 37,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 40,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 465,
+                        "endColumn": 36,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 41,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 503,
+                        "endColumn": 37,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 734,
+                    "endColumn": 58,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 58,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 38,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "D:\\workspace\\FloatingTouch1\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 393,
+                        "endColumn": 34,
+                        "endOffset": 427
+                    }
+                }
+            }
+        ]
+    }
+]

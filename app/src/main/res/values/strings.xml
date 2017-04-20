@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">辅助触控</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_service">Service</string>
+    
+    
+<string name="back">返回</string>
+<string name="home">首页</string>
+<string name="recent">最近运行</string>
+<string name="advanced">更多</string>
+<string name="volume">音量</string>
+<string name="channel">频道</string>
+<string name="silence">静音</string>
+<string name="source">信源</string>
+<string name="menu">菜单</string>
+<string name="ddd">3D</string>
+<string name="power">待机</string>
+
+<string name= "prompt">确定要关机吗？</string>
+<string name="ok">确定</string>
+<string name= "cancel">取消</string>
+</resources>
